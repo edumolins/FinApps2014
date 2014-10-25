@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caixanow</string>
+    <string name="your_cards">Tus tarjetas</string>
+    <string name="your_accounts">Tus cuentas</string>
+    <string name="alerts">Avisos</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <string name="notification_recibo">Recibo cargado a cuenta</string>
+    <string name="notification_ingreso">Ingreso recibido</string>
+    <string name="notification_pago">Pago recibido</string>
+
+    <string name="title_recibo">CC **1234</string>
+    <string name="title_ingreso">CC **3426</string>
+    <string name="title_pago">CC **6743</string>
+
+    <string name="description_recibo">Recibo 50€</string>
+    <string name="description_ingreso">Ingreso 76€</string>
+    <string name="description_pago">Pago 100€</string>
+
+    <string name="info_recibo">Recibo 50€ \n Saldo: 2.344€</string>
+    <string name="info_ingreso">Ingreso 76€ \n Saldo: 12.111</string>
+    <string name="info_pago">Pago 100€ \n Saldo: 100€</string>
+</resources>
